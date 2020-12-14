@@ -1,1 +1,1 @@
-# Grocerylist
+# Grocerylist is a website designed to help the average grocery shopper create a list of items they need from the supermarket. This website allows the user to add new items, check them off or delete them completely. Also, the user is able to describe what the item is, how long the item will last for, and even put it into a category. Lastly, the user is able to note how much of the item they bought while at the store, as well as how much it costs.
